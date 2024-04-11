@@ -1,0 +1,129 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "SDC",
+	"origin" : "d034de3d-e230-11ee-9e3d-f21898498a5d",
+	"type" : "rnbo",
+	"subtype" : "",
+	"embed" : 0,
+	"snapshot" : 	{
+		"delaytime" : 		{
+			"value" : 0.0
+		}
+,
+		"highcut" : 		{
+			"value" : 0.0
+		}
+,
+		"feedback" : 		{
+			"value" : 0.0
+		}
+,
+		"high" : 		{
+			"value" : 21.0
+		}
+,
+		"threshold" : 		{
+			"value" : -14.0
+		}
+,
+		"Dry" : 		{
+			"value" : 0.0
+		}
+,
+		"ratio" : 		{
+			"value" : 0.0
+		}
+,
+		"lomid" : 		{
+			"value" : 11.0
+		}
+,
+		"Low" : 		{
+			"value" : 33.0
+		}
+,
+		"level" : 		{
+			"value" : 0.0
+		}
+,
+		"himidfreq" : 		{
+			"value" : 0.0
+		}
+,
+		"Lowmidfreq" : 		{
+			"value" : 0.0
+		}
+,
+		"Wet" : 		{
+			"value" : 0.99
+		}
+,
+		"input_gain" : 		{
+			"value" : 2.0
+		}
+,
+		"__sps" : 		{
+			"compressor" : 			{
+
+			}
+,
+			"LowCut~" : 			{
+
+			}
+,
+			"Level~" : 			{
+
+			}
+,
+			"LowShelf~" : 			{
+
+			}
+,
+			"LowMid~" : 			{
+
+			}
+,
+			"compressor[1]" : 			{
+
+			}
+,
+			"HighShelf~" : 			{
+
+			}
+,
+			"Highcut~" : 			{
+
+			}
+,
+			"Highmid~" : 			{
+
+			}
+
+		}
+,
+		"LowCut" : 		{
+			"value" : 0.0
+		}
+,
+		"parallel_mix" : 		{
+			"value" : 1.0
+		}
+,
+		"attack" : 		{
+			"value" : 5.0
+		}
+,
+		"himid" : 		{
+			"value" : 26.0
+		}
+,
+		"release" : 		{
+			"value" : 50.0
+		}
+,
+		"__presetid" : "d034de3d-e230-11ee-9e3d-f21898498a5d"
+	}
+
+}

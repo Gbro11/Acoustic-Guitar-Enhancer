@@ -1,0 +1,105 @@
+ACOUSTIC GUITAR ENHANCER PLUGIN
+
+Store this plugin in the folder path: USERS-Library-Audio-Plugins-VST3
+
+How to record Acoustic Guitar:  
+
+First find a quiet space to record your guitar. Use a recommended microphone such as the Shure SM57, a small diaphragm condenser such as the Neumann KM184, or Rode NT5, or a large diagram condenser such as the Neumann U87.  
+
+There are multiple ways to capture a good guitar sound but typically a very natural and neutral sound comes from aiming the microphone about a foot or so away from the guitar's 12th fret. To capture a bigger and a harsher sound aim the microphone at the sound hole still about a foot or so away from the source.  
+
+ 
+
+The Acoustic Guitar Enhancer plugin has 15 different parameters that you can adjust to create a better guitar sound. 
+
+These 15 parameters include High Cut, Low Level, High, Low, Mid, HighMid. 
+
+Also included is a compressor which has Release, attack Ratio, Threshold, Input Game and Parallel mix. 
+
+It also has a delay which has the feedback delay time and a wet and a dry Parameter.  
+
+ 
+
+The plugin is read top down, and the signal flows that same way. The signal goes into the EQ portion of the plugin first then moves into the compressor, where it is then sent through a delay. The EQ has different descriptions of the frequency range it is affecting and each EQ parameter has a sliding scale from –100, to 100 which can be read as percentage. 
+
+The question one can ask themselves is: What percentage of High frequency do I want?  
+
+The compressor works like a typical compressor where one would set their threshold in decibels and then control the ratio from there. The attack and release time are both in milliseconds and the input gain is there if one  would like to add any gain to your signal going into the compressor. The parallel mix allows one to achieve parallel compression with ease by adjusting that parameter.  
+
+The delay only has 4 parameters, feedback which controls how much the delay is feeding signal back into itself. There is also the delay time which is in samples, and finally a dry and a wet parameter to control how much of the affected “wet signal versus how much unaffected dry signal one would prefer.  
+
+If you recorded with a Shure SM57, a Small Diaphragm condenser, or a Large Diaphragm condenser, then the Acoustic Guitar Enhancer has presets custom to those specific microphones to instantly make your guitar sounding better. Simple scroll on the side of the plugin and select the preset menu and select the microphone you used, they will be labeled SM57, SDC, LDC, and NULL. NULL is a preset that normalizes the plugin to reset it if one needs to.  
+
+
+
+
+Copyright (c) 2023 Cycling '74
+
+The code that Max generates automatically and that end users are capable of
+exporting and using, and any associated documentation files (the “Software”)
+is a work of authorship for which Cycling '74 is the author and owner for
+copyright purposes.
+
+This Software is dual-licensed either under the terms of the Cycling '74
+License for Max-Generated Code for Export, or alternatively under the terms
+of the General Public License (GPL) Version 3. You may use the Software
+according to either of these licenses as it is most appropriate for your
+project on a case-by-case basis (proprietary or not).
+
+A) Cycling '74 License for Max-Generated Code for Export
+
+A license is hereby granted, free of charge, to any person obtaining a copy
+of the Software (“Licensee”) to use, copy, modify, merge, publish, and
+distribute copies of the Software, and to permit persons to whom the Software
+is furnished to do so, subject to the following conditions:
+
+The Software is licensed to Licensee for all uses that do not include the sale,
+sublicensing, or commercial distribution of software that incorporates this
+source code. This means that the Licensee is free to use this software for
+educational, research, and prototyping purposes, to create musical or other
+creative works with software that incorporates this source code, or any other
+use that does not constitute selling software that makes use of this source
+code. Commercial distribution also includes the packaging of free software with
+other paid software, hardware, or software-provided commercial services.
+
+For entities with UNDER $200k in annual revenue or funding, a license is hereby
+granted, free of charge, for the sale, sublicensing, or commercial distribution
+of software that incorporates this source code, for as long as the entity's
+annual revenue remains below $200k annual revenue or funding.
+
+For entities with OVER $200k in annual revenue or funding interested in the
+sale, sublicensing, or commercial distribution of software that incorporates
+this source code, please send inquiries to licensing@cycling74.com.
+
+The above copyright notice and this license shall be included in all copies or
+substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Please see
+https://support.cycling74.com/hc/en-us/articles/10730637742483-RNBO-Export-Licensing-FAQ
+for additional information
+
+B) General Public License Version 3 (GPLv3)
+Details of the GPLv3 license can be found at: https://www.gnu.org/licenses/gpl-3.0.html
+
+
+These binaries are provided for personal use only. Any distribution of these binaries to other parties requires the
+registration and licensing of the VST 3 Technology from Steinberg. Please consult Steinberg for more licensing
+information: https://steinbergmedia.github.io/vst3_dev_portal/pages/VST+3+Licensing/Index.html
+
+
+Sharing Apple binaries of any kind will require setting up an Apple developer program membership and codesigning
+the binaries with your certificate.  Otherwise, they will not be able to run without the end user overriding Apple
+security protocols.
+
+For more information visit the following links:
+https://developer.apple.com/programs/enroll/
+https://developer.apple.com/library/archive/documentation/Security/Conceptual/CodeSigningGuide/Procedures/Procedures.html
+https://developer.apple.com/support/certificates/

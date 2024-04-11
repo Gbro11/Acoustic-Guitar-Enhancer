@@ -1,0 +1,117 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "NULL",
+	"origin" : "d034de3d-e230-11ee-9e3d-f21898498a5d",
+	"type" : "rnbo",
+	"subtype" : "",
+	"embed" : 0,
+	"snapshot" : 	{
+		"__sps" : 		{
+			"compressor" : 			{
+
+			}
+,
+			"Level~" : 			{
+
+			}
+,
+			"LowShelf~" : 			{
+
+			}
+,
+			"LowCut~" : 			{
+
+			}
+,
+			"LowMid~" : 			{
+
+			}
+,
+			"compressor[1]" : 			{
+
+			}
+,
+			"HighShelf~" : 			{
+
+			}
+,
+			"Highcut~" : 			{
+
+			}
+,
+			"Highmid~" : 			{
+
+			}
+
+		}
+,
+		"delaytime" : 		{
+			"value" : 0.0
+		}
+,
+		"Wet" : 		{
+			"value" : 0.99
+		}
+,
+		"input_gain" : 		{
+			"value" : 3.0
+		}
+,
+		"feedback" : 		{
+			"value" : 0.0
+		}
+,
+		"HighMid" : 		{
+			"value" : 0.0
+		}
+,
+		"LowMid" : 		{
+			"value" : 0.0
+		}
+,
+		"parallel_mix" : 		{
+			"value" : 1.0
+		}
+,
+		"attack" : 		{
+			"value" : 5.0
+		}
+,
+		"High" : 		{
+			"value" : 0.0
+		}
+,
+		"Dry" : 		{
+			"value" : 0.0
+		}
+,
+		"ratio" : 		{
+			"value" : 7.0
+		}
+,
+		"Low" : 		{
+			"value" : 31.0
+		}
+,
+		"level" : 		{
+			"value" : 0.0
+		}
+,
+		"threshold" : 		{
+			"value" : -7.0
+		}
+,
+		"HighCut" : 		{
+			"value" : 0.0
+		}
+,
+		"release" : 		{
+			"value" : 83.0
+		}
+,
+		"__presetid" : "d034de3d-e230-11ee-9e3d-f21898498a5d"
+	}
+
+}
